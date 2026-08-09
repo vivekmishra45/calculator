@@ -1,2 +1,2 @@
 # calculator
-This is a Calculator . made it get tutorial.
+This is a Calculator .I made it during get tutorial.
